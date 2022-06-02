@@ -2,7 +2,7 @@
 - 👀 I’m interested in building enjoyabl interfaces
 - 🌱 I’m constantly learning about ui and software engineering
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 You can reach me  @ (https://linkedin.com/in/eduardoiotti)[linkedin]
+- 📫 You can reach me  @ https://linkedin.com/in/eduardoiotti
 
 <!---
 dudouz/dudouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
