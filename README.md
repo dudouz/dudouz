@@ -1,27 +1,12 @@
+  <a href="https://github.com/dudouz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudouz&theme=transparent" />
+  </a>
+
 # About me
 - 👋 Hi, I’m @dudouz, i'm a front-end engineer based in southern Brazil.
 - 👀 I’m interested in building enjoyable interfaces
 - 🌱 I’m constantly learning about UI and software engineering
 - 📫 You can reach me  @ https://linkedin.com/in/eduardoiotti
-
-
-  <a href="https://github.com/dudouz">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudouz&theme=transparent" />
-  </a>
-  <a href="https://github.com/dudouz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudouz&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/dudouz">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudouz&theme=transparent" />
-  </a>
-
-
-
-
-  <a href="https://github.com/dudouz">
-    <img src="https://komarev.com/ghpvc/?username=dudouz&color=blue&style=flat)" />
-  </a>
-
 
 <!---
 dudouz/dudouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
