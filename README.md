@@ -4,7 +4,7 @@
 - 🌱 I’m constantly learning about UI and software engineering
 - 📫 You can reach me  @ https://linkedin.com/in/eduardoiotti
 
-<p align="center">
+
   <a href="https://github.com/dudouz">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudouz&theme=transparent" />
   </a>
@@ -14,14 +14,14 @@
   <a href="https://github.com/dudouz">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudouz&theme=transparent" />
   </a>
-</p>
 
 
-<p align="center">
+
+
   <a href="https://github.com/dudouz">
     <img src="https://komarev.com/ghpvc/?username=dudouz&color=blue&style=flat)" />
   </a>
-</p>
+
 
 <!---
 dudouz/dudouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
