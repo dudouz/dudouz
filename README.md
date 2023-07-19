@@ -6,7 +6,6 @@
 - 👋 Hi, I’m @dudouz, i'm a front-end engineer based in southern Brazil.
 - 👀 I’m interested in building enjoyable interfaces
 - 🌱 I’m constantly learning about UI and software engineering
-- 📫 You can reach me  @ https://linkedin.com/in/eduardoiotti
 
 <!---
 dudouz/dudouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
