@@ -1,7 +1,3 @@
-  <a href="https://github.com/dudouz">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudouz&theme=transparent" />
-  </a>
-
 # Hey, I'm Eduardo Iotti
 
 Senior Software Engineer at [Ledgebrook](https://www.ledgebrook.com/), working with React, TypeScript, product interfaces, design systems, and AI-assisted product engineering.
@@ -34,3 +30,10 @@ I write about front-end engineering, layout systems, product building, and the h
 ## Previously
 
 Softensity · Petlove · Via Varejo · Webmotors
+
+## Stats
+
+  <a href="https://github.com/dudouz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudouz&theme=transparent" />
+  </a>
+
